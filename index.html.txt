@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>L'Univers Immersif du Jeu Vidéo 🎮</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Exploration de l'Univers du Jeu Vidéo</h1>
+        <p>De l'arcade à la réalité virtuelle, bienvenue dans un monde de passion et de technologie.</p>
+    </header>
+
+    <main>
+        <section id="introduction">
+            <h2>L'Évolution du Gaming</h2>
+            <img src="https://images.unsplash.com/photo-1542751371-adc32f867cd0" alt="Setup de jeu vidéo coloré" class="hero-image">
+            <p>Le jeu vidéo a traversé les décennies, passant de simples pixels à des mondes ouverts et complexes. Chaque génération apporte son lot d'innovations techniques et narratives. L'image ci-dessus illustre un setup de jeu moderne et immersif, un témoignage de cette évolution.</p>
+        </section>
+
+        <section id="technologies">
+            <h2>Technologies Clés</h2>
+            <ul>
+                <li>**Moteurs de Jeu :** Unity et Unreal Engine, les fondations de la création de mondes virtuels.</li>
+                <li>**Versionnement :** Git, essentiel pour la collaboration et la gestion des mises à jour du code.</li>
+                <li>**Plateformes :** PC, Consoles (PlayStation, Xbox, Nintendo) et Mobile.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>Source de l'image (libre de droit) : Unsplash / @maximalfocus. Code versionné avec Git.</p>
+    </footer>
+
+</body>
+</html>
